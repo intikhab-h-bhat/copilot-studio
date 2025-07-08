@@ -78,6 +78,38 @@ You can add a special node called “Generative answers” to pull information f
 
 Choose where the agent should look for information (like SharePoint, public websites, or internal databases).
 
+## Connecting Agents to Microsoft 365 Substrate Data — In Simple Words
+You can make your agent smarter by letting it use information from Microsoft 365, like files and data in SharePoint or other business apps. Here’s how it works, step by step:
+
+What Is Microsoft 365 Substrate Data?
+It’s the information stored in Microsoft 365 apps, like SharePoint, or connected apps such as ServiceNow, Azure SQL, Salesforce, and Zendesk.
+
+### How Do You Connect This Data to Your Agent?
+Go to Your Agent’s Overview Page:
+Find the agent you want to enhance.
+
+#### Add Knowledge:
+In the Knowledge section, click on “Add knowledge.” This opens a window where you can pick the data sources.
+
+#### Choose Your Data Source:
+
+Use the Featured or Advanced tab.
+
+Select SharePoint or connect to other supported sources (ServiceNow, Azure SQL, Salesforce, Zendesk) using Microsoft Graph connectors.
+
+#### No Coding Needed:
+You don’t need to write any code—just select and connect.
+
+#### What Happens Next?
+The agent can now use this data to answer questions or perform tasks.
+
+You can use this data in special “Generative Answers” steps or let the agent use it automatically if it’s set to “Generative Orchestration” mode.
+
+#### In short:
+You can easily connect your business data from Microsoft 365 and other apps to your agent, so it can use that information to help you—no coding required.
+
+
+
 ### Tips
 Make trigger phrases specific and unique to each topic.
 

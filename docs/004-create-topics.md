@@ -6,6 +6,34 @@ Trigger phrases: These are sample questions or words a customer might use, like 
 
 Conversation nodes: These are steps in the conversation, such as messages, questions, or actions the agent takes to help the customer.
 
+## When you create a new agent (like a chatbot), it already comes with some built-in topics to help you get started. These topics are like ready-made conversation pieces the agent can use.
+
+There are two types of topics:
+
+### Custom Topics
+These are user-focused and include things like:
+
+Saying hello (greeting)
+
+Saying goodbye
+
+Starting the conversation over
+They show you how to build both simple and more complex conversations.
+
+### System Topics
+These are about common situations that might happen, like:
+
+Escalating to a human if the bot can’t help
+
+Ending the conversation
+They help the agent handle typical scenarios automatically.
+
+In short:
+Your agent starts with useful conversation pieces, so you don’t have to build everything from scratch. Some are for basic chatting, and others handle common problems or needs.
+
+
+
+
 ## How to Create a Topic
 You have two main ways:
 
